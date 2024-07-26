@@ -12,7 +12,7 @@
 }
 
 .accent-text {
-  color: #BC3A80;
+  color: #e20a64;
 }
 
 .join-form {
@@ -82,7 +82,7 @@
   height: 100%;
   width: 100%;
   border-radius: 50%;
-  background-color: rgb(188, 58, 128, .1);
+  background-color: rgba(0, 0, 0, 0.1);
 }
 
 .join-page-circle-2 {
@@ -102,5 +102,5 @@
   height: 100%;
   width: 100%;
   border-radius: 50%;
-  background-color: rgb(52, 87, 178, .1);
+  background-color: rgba(0, 0, 0, 0.1);
 }
